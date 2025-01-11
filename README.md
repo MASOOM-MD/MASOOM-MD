@@ -10,7 +10,7 @@ src="https://cardivo.vercel.app/api?name=MASOOM%20MD&description=A%20PAKISTANI%2
 
 ***`FORK REPO`***
 
-  <a href="https://github.com/Sobxsparl/SOBIA-MD/fork"><img src="https://img.shields.io/badge/Fork%20Create-black?style=for-the-badge&logo=github" alt="FORK MASOOM MD" width="150"></a>
+  <a href="https://github.com/MASOOM-MD/MASOOM-MD/fork"><img src="https://img.shields.io/badge/Fork%20Create-black?style=for-the-badge&logo=github" alt="FORK MASOOM MD" width="150"></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -54,14 +54,14 @@ src="https://cardivo.vercel.app/api?name=MASOOM%20MD&description=A%20PAKISTANI%2
   
 | [![MASOOM BALOCH](https://github.com/Um4r719.png?lenght=50width=50)](https://github.com/Um4r719)|
 |----|
-| [Imran Baloch](https://github.com/Um4r719) |
+| [Imran Baloch](https://github.com/MASOOM-MD/MASOOM-MD) |
 | Co.Owner,Developer, Bug Fixer, Maintainer, Updates |
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <br>
   
-| [![Imran Baloch](https://github.com/Sobxsparl.png?lenght=50width=50)](https://github.com/Sobxsparl) |
+| [![Imran Baloch](https://github.com/MASOOM-MD/MASOOM-MD)](https://github.com/MASOOM-MD/MASOOM-MD) |
 |----|
-| [ Imran Baloch ](https://github.com/Sobxsparl) |
+| [ Imran Baloch ](https://github.com/MASOOM-MD/MASOOM-MD) |
 |  Owner |
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   </div>
