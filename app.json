@@ -1,7 +1,7 @@
 {
-  "name": "SOBIA MD",
-  "description": "SOBIA MD IS THE MAKE BY USING BAILEY'S",
-  "logo": "https://i.ibb.co/zxJjd9P/Manul-Ofc-X.jpg",
+  "name": "MASOOM MD",
+  "description": "MASOOM MD IS THE MAKE BY USING BAILEY'S",
+  "logo": "https://i.ibb.co/k5tNS0Z/Manul-Ofc-X.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -16,7 +16,7 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://i.ibb.co/zxJjd9P/Manul-Ofc-X.jpg"
+      "value": "https://i.ibb.co/k5tNS0Z/Manul-Ofc-X.jpg"
     }, 
     
     "ALIVE_MSG": {
@@ -112,12 +112,12 @@
     "CAPTION": {
       "description": "enter your caption if you want to show on menu.",
       "required": true,
-      "value": "POWERED BY SOBIABUTT133"
+      "value": "POWERED BY Maͥsoͣoͫm3795"
     }, 
     "STATUS_REPLY": {
       "description": "enter your caption if you want to show on status reply.",
       "required": true,
-      "value": "➺үσυя sтαтυs sεεη נυsт ησω вү sσвia м∂"
+      "value": "➺үσυя sтαтυs sεεη נυsт ησω вү ZAHID MD"
     },
     "AUTO_REPLY_STATUS": {
       "description": "you can true or false it.",
