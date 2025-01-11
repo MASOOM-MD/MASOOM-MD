@@ -39,9 +39,9 @@ src="https://cardivo.vercel.app/api?name=MASOOM%20MD&description=A%20PAKISTANI%2
 <p/>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-### <br> `INSTAGRAM`
+### <br> `TIKTOk`
 <p align="left">
-<a href="https://www.instagram.com/um4rxd"><img height= "35" title="Author" src="https://img.shields.io/badge/Follow-black?style=for-the-badge&logo=instagram"></a>
+<a href="tiktok.com/@attitude_baloch302"><img height= "35" title="Author" src="https://img.shields.io/badge/Follow-black?style=for-the-badge&logo=tiktok"></a>
 <p/>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
