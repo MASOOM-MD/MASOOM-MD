@@ -1,4 +1,4 @@
-<h1> SOBIA MD <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h1>
+<h1> MASOOM MD <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h1>
 
 <br>
 
@@ -15,13 +15,13 @@ src="https://cardivo.vercel.app/api?name=SOBIA%20MD&description=A%20PAKISTANI%20
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-### <br> `SOBIA MD WEBPAGE`
+### <br> `MASOOM MD WEBPAGE`
 <p align="left">
 <a href="https://sobia-md-pair.onrender.com/"><img height= "35" title="Author" src="https://img.shields.io/badge/WebPage-black?style=for-the-badge&logo=google"></a>
 <p/>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-### <br> `SOBIA MD SESSION`
+### <br> `MASOOM MD SESSION`
 <p align="left">
 <a href="https://sobia-md-pair.onrender.com/pair"><img height= "35" title="Author" src="https://img.shields.io/badge/Session-black?style=for-the-badge&logo=render"></a>
 <p/>
@@ -52,16 +52,16 @@ src="https://cardivo.vercel.app/api?name=SOBIA%20MD&description=A%20PAKISTANI%20
 
 <div align="center">
   
-| [![UMAR REHMAN](https://github.com/Um4r719.png?lenght=50width=50)](https://github.com/Um4r719)|
+| [![MASOOM BALOCH](https://github.com/Um4r719.png?lenght=50width=50)](https://github.com/Um4r719)|
 |----|
-| [ SOBIA BUTT ](https://github.com/Um4r719) |
+| [Imran Baloch](https://github.com/Um4r719) |
 | Co.Owner,Developer, Bug Fixer, Maintainer, Updates |
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <br>
   
-| [![Sobia Butt](https://github.com/Sobxsparl.png?lenght=50width=50)](https://github.com/Sobxsparl) |
+| [![Imran Baloch](https://github.com/Sobxsparl.png?lenght=50width=50)](https://github.com/Sobxsparl) |
 |----|
-| [ SOBIA BUTT ](https://github.com/Sobxsparl) |
+| [ Imran Baloch ](https://github.com/Sobxsparl) |
 |  Owner |
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   </div>
